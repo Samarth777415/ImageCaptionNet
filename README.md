@@ -28,7 +28,7 @@ This project implements an image caption generator using deep learning technique
 
 ## Dataset
 
-The [Flickr8K dataset](https://www.kaggle.com/adityajn105/flickr8k) is used for training and evaluation. It consists of 8,091 images, each with five captions describing the content. The dataset structure:
+The [Flickr8K dataset] is used for training and evaluation. It consists of 8,091 images, each with five captions describing the content. The dataset structure:
 
 ```
 /flickr8k
